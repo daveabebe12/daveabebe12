@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Dawit Abebe, a Creative Frontend Developer,  Competitive_Programmer & Ui/Ux Designer
 
-<!--
-**daveabebe12/daveabebe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate *fullstack developer* with a strong emphasis on *frontend development*. 
+I specialize in JavaScript, JavaScript frameworks, and CSS.
 
-Here are some ideas to get you started:
+My primary focus centers on crafting *captivating* and *seamless* user experiences...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+* 🔭 I’m currently working on **Personal Projects**
+* 🌱 I’m currently learning **Python and Django**
+* 💬 Ask me about **Sass, CSS, Accessibility, React**
+
+## Languages and Tools 👩‍💻
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=js,ts" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=react,sass,css,html,nextjs,vue,bootstrap,angular" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,graphql,mongodb" />
+
+### Devops & Design
+<img src="https://skillicons.dev/icons?i=figma,webflow,sketch,postman,git,github,mocha,selenium" />
