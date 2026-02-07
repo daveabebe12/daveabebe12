@@ -4,7 +4,15 @@ I am a passionate *fullstack developer* with a strong emphasis on *frontend deve
 I specialize in JavaScript, Python, Figma, Adobe Photoshop and Adobe Illustrator.
 
 My primary focus centers on crafting *captivating* and *seamless* user experiences...
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devkumar326/devkumar326/master/me_1.gif" alt="Developer Illustration" width="600">
+</p>
+<p align="center">
+<a href="mailto:davo12ab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://linkedin.com/in/dawit-abebe-arficho/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/dawitabebe/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+<a href="https://t.me/dawitar1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
 ---
 
 * 🔭 I’m currently working on **Personal Projects**
