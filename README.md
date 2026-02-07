@@ -14,13 +14,13 @@ My primary focus centers on crafting *captivating* and *seamless* user experienc
 ## Languages and Tools 👩‍💻
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts" />
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
 
 ### Frontend Development
-<img src="https://skillicons.dev/icons?i=react,sass,css,html,nextjs,vue,bootstrap,angular" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs,angular,vue,html,bootstrap,css,sass" />
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,graphql,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,express,postgres,graphql,mongodb" />
 
 ### Devops & Design
-<img src="https://skillicons.dev/icons?i=figma,webflow,sketch,postman,git,github,mocha,selenium" />
+<img src="https://skillicons.dev/icons?i=figma,photoshop,github,git,webflow,postman,selenium,sketch,mocha" />
