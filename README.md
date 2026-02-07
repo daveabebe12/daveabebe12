@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dawit Abebe, a Creative Frontend Developer,  Competitive_Programmer & Ui/Ux Designer
 
 I am a passionate *fullstack developer* with a strong emphasis on *frontend development*. 
-I specialize in JavaScript, JavaScript frameworks, and CSS.
+I specialize in JavaScript, Python, Figma, Adobe Photoshop and Adobe Illustrator.
 
 My primary focus centers on crafting *captivating* and *seamless* user experiences...
 
