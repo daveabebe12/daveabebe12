@@ -17,7 +17,7 @@ My primary focus centers on crafting *captivating* and *seamless* user experienc
 
 * 🔭 I’m currently working on **Personal Projects**
 * 🌱 I’m currently learning **Python and Django**
-* 💬 Ask me about **Sass, CSS, Accessibility, React**
+* 💬 Ask me about **Figma, Adobe Photoshop, Adobe Illustrator, React**
 
 ## Languages and Tools 👩‍💻
 
