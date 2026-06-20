@@ -19,6 +19,12 @@ My primary focus centers on crafting *captivating* and *seamless* user experienc
 * 🌱 I’m currently learning **Python and Django**
 * 💬 Ask me about **Figma, Adobe Photoshop, Adobe Illustrator, React**
 
+### My GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?daveabebe12=daveabebe12&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="190" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?daveabebe12=daveabebe12&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+
 ## Languages and Tools 👩‍💻
 
 ### Programming Languages
